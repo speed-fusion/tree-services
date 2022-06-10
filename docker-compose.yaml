@@ -2,4 +2,13 @@ version: '3'
 
 services:
   form-auto-submit:
+    build:
+      context: ./services/auto_form_submit/
+      dockerfile: Dockerfile.auto_form_submit
     
+    stdin_open: true
+
+    volumes:
+      - ./services/logs:/usr/src/app/logs
+
+    restart: always

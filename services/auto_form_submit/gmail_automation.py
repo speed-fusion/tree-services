@@ -261,5 +261,9 @@ class GmailAutomation:
         self.driver.stop()
 
 if __name__ == "__main__":
+    
     g = GmailAutomation()
-    g.main()
+    
+    while True:
+        g.main()
+        time.sleep(30)
