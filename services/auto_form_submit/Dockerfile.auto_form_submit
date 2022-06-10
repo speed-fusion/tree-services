@@ -14,4 +14,4 @@ RUN playwright install-deps
 
 COPY . .
 
-CMD ["python","-u","gmail_automation.py"]
+CMD ["python3","-u","gmail_automation.py"]
