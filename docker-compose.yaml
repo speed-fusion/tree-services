@@ -9,6 +9,6 @@ services:
     stdin_open: true
 
     volumes:
-      - ./services/logs:/usr/src/app/logs
+      - ./services/auto_form_submit/logs:/usr/src/app/logs
 
     restart: always

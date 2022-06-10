@@ -1,2 +1,0 @@
-25924 - 10-Jun-22 13:54:32 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-25924 - 10-Jun-22 13:54:52 - root - INFO - {'timestamp': '10/06/2022 13:54', 'link': 'https://www.tree-services.pro/tlt/?zip=00098&phone=(122) 112-2111&email=Jj@yahoo.com&service=Test tree&fullname=Test (Yug)&sms=I agree to receive an automated text message to confirm my estimate request.', 'subject': 'New Lead! Auto Run Script | Test (Yug) | 00098 | Website', 'email': 'thetreeservicepros@gmail.com', 'status': True}
