@@ -1,2 +1,0 @@
-21796 - 19-Jun-22 19:29:09 - google_auth_oauthlib.flow - INFO - "GET /?state=lvbRhtqTX272bxYRE0v5Qp47sGFRDN&code=4/0AX4XfWip9rnXt6_xkBgb4NtRoS3mTDYadzteBrem00nASs5Eg_wqwn2WpRyyGOGkP2h3Uw&scope=https://mail.google.com/ HTTP/1.1" 200 65
-21796 - 19-Jun-22 19:29:09 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
