@@ -12,6 +12,8 @@ RUN playwright install
 
 RUN playwright install-deps
 
-COPY . .
+COPY ./gmail_automation.py ./
+COPY ./playwright_driver.py ./
+
 
 CMD ["python3","-u","gmail_automation.py"]

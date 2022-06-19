@@ -10,5 +10,6 @@ services:
 
     volumes:
       - ./services/auto_form_submit/logs:/usr/src/app/logs
+      - ./services/auto_form_submit/config:/usr/src/app/config
 
     restart: always
